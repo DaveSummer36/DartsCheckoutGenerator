@@ -5,6 +5,14 @@ Currently, only Console Versions are accessible due to the developer's non-exist
 <br />
 <br />
 <br />
+<h2>v1.2 - Released on 27th of August, 2024</h2>
+<p>Improvements:</p>
+<ul>An already-generated checkout will not show up again in the same game.</ul>
+<ul>After a game the program show how many times you hit and missed!</ul>
+<ul>Fixed - Incorrect checkout suggestions were fixed</ul>
+<br />
+<br />
+<br />
 <h2>v1.1 - Released on 26th of August, 2024</h2>
 <p>Improvements:</p>
 <ul>Background was changed to dark-blue</ul>
