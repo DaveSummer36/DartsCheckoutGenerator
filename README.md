@@ -13,7 +13,7 @@ Currently, only Console Versions are accessible due to the developer's non-exist
 <ul>Fixed - impossible scores not to be generated</ul>
 <br />
 <br />
-<h2>v1.0 - Released on 25 of August, 2024</h2>
+<h2>v1.0 - Released on 25th of August, 2024</h2>
 <p>Details:</p>
 <ul>The program gives a random checkout from 2 to 170</ul>
 <ul>For every score the program gives you a suggestion way</ul>
