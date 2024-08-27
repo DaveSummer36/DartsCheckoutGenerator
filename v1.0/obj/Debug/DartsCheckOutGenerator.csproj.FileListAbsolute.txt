@@ -1,0 +1,7 @@
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\bin\Debug\DartsCheckOutGenerator.exe.config
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\bin\Debug\DartsCheckOutGenerator.exe
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\bin\Debug\DartsCheckOutGenerator.pdb
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\obj\Debug\DartsCheckOutGenerator.csproj.AssemblyReference.cache
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\obj\Debug\DartsCheckOutGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\obj\Debug\DartsCheckOutGenerator.exe
+C:\Users\nyari\source\repos\DartsCheckOutGenerator\DartsCheckOutGenerator\obj\Debug\DartsCheckOutGenerator.pdb
