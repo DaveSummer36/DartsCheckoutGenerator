@@ -1,0 +1,7 @@
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\bin\Release\DartsCheckOutGenerator.exe.config
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\bin\Release\DartsCheckOutGenerator.exe
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\bin\Release\DartsCheckOutGenerator.pdb
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\obj\Release\DartsCheckOutGenerator.csproj.AssemblyReference.cache
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\obj\Release\DartsCheckOutGenerator.csproj.CoreCompileInputs.cache
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\obj\Release\DartsCheckOutGenerator.exe
+C:\Users\nyari\OneDrive\Asztali gép\Darts Checkout Generator\Console Version\v1.0\DartsCheckOutGenerator\obj\Release\DartsCheckOutGenerator.pdb
