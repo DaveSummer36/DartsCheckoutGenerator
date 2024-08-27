@@ -1,0 +1,41 @@
+{
+	"Version": 1,
+	"WorkspaceRootPath": "C:\\Users\\nyari\\OneDrive\\Asztali g\u00E9p\\Darts Checkout Generator\\Console Edition\\v1.0",
+	"Documents": [
+		{
+			"AbsoluteMoniker": "D:0:0:{6FC554AA-9B2A-41BE-AC2E-E96978E88132}|DartsCheckOutGenerator\\DartsCheckOutGenerator.csproj|c:\\users\\nyari\\onedrive\\asztali g\u00E9p\\darts checkout generator\\console version\\v1.0\\dartscheckoutgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+			"RelativeMoniker": "D:0:0:{6FC554AA-9B2A-41BE-AC2E-E96978E88132}|DartsCheckOutGenerator\\DartsCheckOutGenerator.csproj|solutionrelative:dartscheckoutgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+		}
+	],
+	"DocumentGroupContainers": [
+		{
+			"Orientation": 0,
+			"VerticalTabListWidth": 256,
+			"DocumentGroups": [
+				{
+					"DockerWidth": 200,
+					"SelectedChildIndex": 1,
+					"Children": [
+						{
+							"$type": "Bookmark",
+							"Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+						},
+						{
+							"$type": "Document",
+							"DocumentIndex": 0,
+							"Title": "Program.cs",
+							"DocumentMoniker": "C:\\Users\\nyari\\OneDrive\\Asztali g\u00E9p\\Darts CheckOut Generator\\Console Edition\\v1.0\\DartsCheckOutGenerator\\Program.cs",
+							"RelativeMoniker": "DartsCheckOutGenerator\\Program.cs",
+							"ToolTip": "C:\\Users\\nyari\\OneDrive\\Asztali g\u00E9p\\Darts Checkout Generator\\Console Version\\v1.0\\DartsCheckOutGenerator\\Program.cs",
+							"RelativeToolTip": "DartsCheckOutGenerator\\Program.cs",
+							"ViewState": "AQIAAA8AAAAAAAAAAAAAAGoBAAABAAAA",
+							"Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+							"WhenOpened": "2024-08-24T22:00:55.993Z",
+							"EditorCaption": ""
+						}
+					]
+				}
+			]
+		}
+	]
+}
